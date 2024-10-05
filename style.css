@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .login{
+    width: 533px;
+    height: 70px;
+    top: 607px;
+    left: 459px;
+    gap: 0px;
+    border-radius: 20px;
+   border: 1px solid #75757530;
+    background-color: #fafafa;
+    
+    
+} */
+.nav{
+    border: 2px solid #DEDBDB;
+    width: 1349px;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.logo{
+    width: 170px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.lang{
+    width: 30px;
+    height: 30px;
+    margin-top: 36px;
+    margin-left:870px;
+}
+.uzb{
+   font-size: 30px; 
+   margin-right: 680px;
+   margin-top: 34px;
+   margin-left: 10px;
+   font-weight: 550;
+   color: #424242;
+   background-repeat: no-repeat;
+}
+body{
+    background-color:whitesmoke;
+}
+header{
+    background-color: white;
+}
+.space{
+    border: 2px solid #DEDBDB;
+    
+    width: 650px;
+height: 610px;
+top: 186px;
+left: 395px;
+gap: 0px;
+border-radius: 50px ;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: 50px;
+
+}
+.logo2{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.offerta{
+    font-size: 21px;
+    font-weight: 600;
+    margin-left: 430px;
+    color: orangered;
+    margin-top: -40px;
+    float: right;
+    position: relative;
+    right: 66px;
+    
+}
+.door{
+    width: 20px;
+    height: 20px;
+    position:relative;
+    left: 590px;
+    bottom: 38px;
+}
+.welcome{
+    font-size: 48px;
+    font-weight: 550;
+    color: #0E0D5D;
+    margin-left: 90px;
+    margin-top: 70px;
+
+}
+.obwy{
+    background-color: #F5F5F5;
+    border-radius: 8px;
+    border: 5px solid #F5F5F5;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    height: 45px;
+    position: relative;
+    left: 110px;
+    top: 20px;
+}
+.studenttext{
+    position: relative;
+    left: 20px;
+    top: 2px;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+}
+.parenttext{
+    font-size: 18px;
+    font-weight: 100;
+    position: relative;
+    top: 8px;
+    text-align: center;
+    color: #757575;
+    right: 5px;
+}
+.student{
+    border: 0px solid;
+    border-radius: 5px;
+    background-color: white;
+    width: 170px;
+    height: 34px;
+    text-align: center;
+    position: relative;
+   
+    box-sizing: border-box;
+    
+}
+.user{
+    border-radius: 10px;
+    position: relative;
+    top: 40px;
+    left: 110px;
+    border: 1px solid #75757530;
+    width: 400px;
+    height: 55px;  
+    padding: 15px;   
+    box-sizing: border-box;
+}
+.password{
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+    left: 110px;
+    border: 1px solid #75757530;
+    width: 400px;
+    height: 55px;  
+    padding: 15px;   
+    box-sizing: border-box;
+
+}
+.eye{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 470px;
+    top: 22px;
+}
+.qr{
+    color: #000000A3;
+    font-weight: 500;
+    font-size: 18px;
+    position: relative;
+    top: 60px;
+    left: 230px;
+}
+.btn{
+    color: #FFFFFF;
+    border: 0px solid;
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+    background-color: #F69E86;
+    position: relative;
+    left: 450px;
+    top: 100px;
+    text-align: center;
+
+}
+.btnn{
+    font-size: 18px;
+    position: relative;
+    top: 8px;
+}
+.btn:hover{
+    background-color: red;
+    transition: all 0.8s;
+}
+
+
+
+
+
